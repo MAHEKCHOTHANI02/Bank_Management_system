@@ -34,10 +34,10 @@ To preview and run the Code on your device:
 
 # Contact
 
-Author: Nikhil D.
+Author: Mahek C,
 
-GitHub: nikhildobariya98
+GitHub: MAHEKCHOTHANI02
 
-LinkedIn: Nikhil Dobariya
+LinkedIn: Mahek Chothani
 
-Email: dobariyanikhil98@gmail.com
+Email: chothanimahek1402@gmail.com
